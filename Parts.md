@@ -33,3 +33,8 @@ Really Useful Box 84L Clear
 Product Code: 0161206932 | Barcode: 5060024800807
 710 x 440 x 380
 http://www.ryman.co.uk/really-useful-box-84l-clear
+
+
+Todo
+
+Metal corner brackets
