@@ -1,7 +1,0 @@
-# Todo
-
-  * Add corner bracket supports (triangles)
-  * try porting the model across to fusion 360
-  * work out the cost of wood
-  * try adding a small rised up part on the shelf to stop the psu falling backwards
-  * Add Fan Support

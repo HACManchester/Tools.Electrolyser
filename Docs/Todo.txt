@@ -1,0 +1,27 @@
+# Todo
+
+## Electrodes
+
+Try and make the electrodes first using threaded rod and nuts
+and some small bits of wood
+
+Then check the clearance on the side of the tank
+
+Things to take:
+1. large bolt set
+2. part of cnc case
+
+
+## Frame
+
+  * Double check the size of the tank / everything
+  * Add angle bracket supports to diagram
+
+## Future
+
+  * Try porting the model across to freecad
+  * Add Fan Support
+
+  * 22mm per 5L Scale up the box
+  * Add a row of silicon on the inside to seal when the lid is on
+  * seperate bucket for emptying / filling

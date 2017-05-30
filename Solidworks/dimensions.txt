@@ -1,7 +1,7 @@
-"Tank_Width" = 710mm
-"Tank_Depth" = 440mm
-"Tank_Height" = 380mm
-"Case_Width" = 750mm
+"Tank_Width" = 660mm
+"Tank_Depth" = 420mm
+"Tank_Height" = 300mm
+"Case_Width" = 790mm
 "Case_Depth" = 470mm
-"Case_Height" = 700mm
-"WoodSheet_Thickness" = 12mm
+"Case_Height" = 566mm
+"WoodSheet_Thickness" = 18mm
